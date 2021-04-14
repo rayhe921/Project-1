@@ -2,14 +2,13 @@ var apiKey = "4e3dcf2fc1b24adcb55dca009f7a4c1c";
 var apiID = "60e3a0d00b91914162e9601108a3107e";
 var flickrApiKey = "54dd9c98839786f36134376681551472";
 var firebaseConfig = {
-    apiKey: "AIzaSyDEgX56QY2lh2XZbC5lpjcTtLDFwvECD8w",
-    authDomain: "whats-cooking-39dc2.firebaseapp.com",
-    databaseURL: "https://whats-cooking-39dc2.firebaseio.com",
-    projectId: "whats-cooking-39dc2",
-    storageBucket: "whats-cooking-39dc2.appspot.com",
-    messagingSenderId: "972886469154",
-    appId: "1:972886469154:web:6801093a264ce15181b87b"
-  };
+      apiKey: "AIzaSyBub_p_DQ4vBoreAtjP9cUCdx76hM6elIQ",
+      authDomain: "whats-cooking-11b3b.firebaseapp.com",
+      projectId: "whats-cooking-11b3b",
+      storageBucket: "whats-cooking-11b3b.appspot.com",
+      messagingSenderId: "135255721104",
+      appId: "1:135255721104:web:09172358c2637f9ad54415"
+    };
 
 
 // var config = {
@@ -24,3 +23,20 @@ var firebaseConfig = {
       
 //   firebase.initializeApp(config);
 //   var database = firebase.database();
+
+
+// <script>
+//   // Your web app's Firebase configuration
+//   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+//   var firebaseConfig = {
+//     apiKey: "AIzaSyBub_p_DQ4vBoreAtjP9cUCdx76hM6elIQ",
+//     authDomain: "whats-cooking-11b3b.firebaseapp.com",
+//     projectId: "whats-cooking-11b3b",
+//     storageBucket: "whats-cooking-11b3b.appspot.com",
+//     messagingSenderId: "135255721104",
+//     appId: "1:135255721104:web:09172358c2637f9ad54415"
+//   };
+//   // Initialize Firebase
+//   firebase.initializeApp(firebaseConfig);
+//   firebase.analytics();
+// </script>

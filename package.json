@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rayhe921/Project-1#readme",
   "dependencies": {
-    "firebase": "^8.4.0"
+    "firebase": "^8.4.1"
   }
 }
