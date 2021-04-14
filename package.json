@@ -1,0 +1,22 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "This is a Recipe App, that will allow for quick retrieval, editing and grouping of recipies. There are two api calls, one for the images, and another to retrieve the recipe. You can also save recipies and groups of recipies to your profile. Below are some of the tasks you can perform with the Recipe App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhe921/Project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayhe921/Project-1/issues"
+  },
+  "homepage": "https://github.com/rayhe921/Project-1#readme",
+  "dependencies": {
+    "firebase": "^8.4.0"
+  }
+}
